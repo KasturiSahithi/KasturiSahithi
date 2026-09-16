@@ -1,6 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>   DocuMind AI — an AI-powered Document Intelligence & RAG Platform<br><br>👯 I’m looking to collaborate on<br>   AI/ML, Generative AI, RAG & Data Analytics projects<br><br>💬 Ask me about<br>   Python • SQL • Data Analytics • Machine Learning • GenAI<br><br>⚡ Fun fact<br>   I’m an EEE student who loves building projects at the intersection of<br>   hardware, software and AI 🚀
 
+🧭 About Me
+
+AI/ML & Data Analytics Enthusiast | EEE + Data Science
+Building AI-powered applications and solving real-world problems.
+
+🔭 I'm currently working on
+DocuMind AI — AI-powered Document Intelligence & RAG Platform
+
+👯 I'm looking to collaborate on
+Generative AI, RAG, Machine Learning & Data Analytics projects
+
+🌱 I'm currently learning
+LLMs • RAG • LangChain • Vector Databases • FastAPI • AI Agents
+
+💬 Ask me about
+Python • SQL • Machine Learning • Data Analytics • GenAI
+
+⚡ Fun fact
+I'm an EEE student who loves building projects at the intersection
+of hardware, software and AI 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahithi-kasturi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kasturisahithi068@gmail.com) 
