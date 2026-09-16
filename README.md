@@ -1,5 +1,4 @@
-
-🧭 About Me
+**🧭 About Me**:
 
 AI/ML & Data Analytics Enthusiast | EEE + Data Science
 Building AI-powered applications and solving real-world problems.
