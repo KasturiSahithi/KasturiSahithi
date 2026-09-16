@@ -44,8 +44,6 @@ I'm an EEE student who loves building projects at the intersection of hardware, 
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" alt="Kotlin"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
 </p>
 
@@ -146,10 +144,3 @@ I'm an EEE student who loves building projects at the intersection of hardware, 
 </p>
 
 
-
-
-# 📈 Profile
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KasturiSahithi&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
